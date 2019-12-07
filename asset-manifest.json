@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/padberg-web/static/css/main.d1b05096.chunk.css",
+    "main.js": "/padberg-web/static/js/main.25735cd9.chunk.js",
+    "main.js.map": "/padberg-web/static/js/main.25735cd9.chunk.js.map",
+    "runtime-main.js": "/padberg-web/static/js/runtime-main.bff7d419.js",
+    "runtime-main.js.map": "/padberg-web/static/js/runtime-main.bff7d419.js.map",
+    "static/js/2.48f1fd83.chunk.js": "/padberg-web/static/js/2.48f1fd83.chunk.js",
+    "static/js/2.48f1fd83.chunk.js.map": "/padberg-web/static/js/2.48f1fd83.chunk.js.map",
+    "index.html": "/padberg-web/index.html",
+    "precache-manifest.ab193da42699e2ff5b6c9120ef2da014.js": "/padberg-web/precache-manifest.ab193da42699e2ff5b6c9120ef2da014.js",
+    "service-worker.js": "/padberg-web/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/padberg-web/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.48f1fd83.chunk.js.LICENSE": "/padberg-web/static/js/2.48f1fd83.chunk.js.LICENSE",
+    "static/media/logo.svg": "/padberg-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff7d419.js",
+    "static/js/2.48f1fd83.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.25735cd9.chunk.js"
+  ]
+}
